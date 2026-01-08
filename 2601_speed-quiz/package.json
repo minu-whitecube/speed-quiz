@@ -1,0 +1,8 @@
+{
+  "name": "speed-quiz",
+  "version": "1.0.0",
+  "description": "스피드 퀴즈 도전 웹 애플리케이션",
+  "scripts": {
+    "build": "echo 'No build step required for static site'"
+  }
+}
