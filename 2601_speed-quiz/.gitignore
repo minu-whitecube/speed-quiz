@@ -16,3 +16,18 @@ npm-debug.log*
 # Environment
 .env
 .env.local
+
+# Next.js
+/.next/
+/out/
+/build
+*.tsbuildinfo
+next-env.d.ts
+
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Vercel
+.vercel
